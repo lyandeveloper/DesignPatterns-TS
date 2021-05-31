@@ -30,7 +30,7 @@ Veja o código dessa mesma pasta.
 
 ## Estrutura
 
-<img src="/diagramas/Builder.png"/>
+<img src="./diagramas/Builder.png"/>
 
 ## Aplicabilidade
 
