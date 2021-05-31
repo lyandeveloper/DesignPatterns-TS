@@ -1,0 +1,14 @@
+{
+  "name": "DesignPatterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "builder": "ts-node-dev src/creational/builder/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4"
+  }
+}
