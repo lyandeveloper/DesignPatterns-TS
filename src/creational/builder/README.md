@@ -1,5 +1,5 @@
 # Builder - Creational (Criação)
-
+O Builder é um padrão de projeto criacional, que permite a construção de objetos complexos passo a passo.
 ## Intenção
 
 _Separar a construção de um objeto complexo da sua representação de modo que o mesmo processo de construção possa criar diferentes representações._
